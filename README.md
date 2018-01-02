@@ -19,7 +19,7 @@ Outputting
 >>> {"lat":41.87805555555556,"lng":87.62972222222223}
 ```
 
-Running
+Running the server
 
 Clone this repository then run
 ```
