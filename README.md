@@ -4,14 +4,14 @@ This is the implementation of the [geo:key Algorithim](https://www.linkedin.com/
 
 Example usage
 
-Encoding: 
+	Encoding: 
 ```
 curl "http://localhost:8080/geokey/?lat=41.8781&lng=87.6298"
 
 Outputting
 >>> E6460:98EE0
 ```
-Decoding: 
+	Decoding: 
 ```
 curl "http://localhost:8080/geokey/?key=E7D12:9A096"
 
