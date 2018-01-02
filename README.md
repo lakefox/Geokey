@@ -18,3 +18,10 @@ curl "http://localhost:8080/geokey/?key=E7D12:9A096"
 Outputting
 >>> {"lat":41.87805555555556,"lng":87.62972222222223}
 ```
+
+Running
+
+Clone this repository then run
+```
+node app.js
+```
