@@ -14,7 +14,7 @@ Outputting
 
 Decoding: 
 
-curl "http://localhost:8080/geokey/?key=E6460:98EE0"
+curl "http://localhost:8080/geokey/?key=E7D12:9A096"
 
 Outputting
 >>> E6460:98EE0
