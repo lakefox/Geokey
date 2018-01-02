@@ -5,5 +5,7 @@ This is the implementation of the [geo:key Algorithim](https://www.linkedin.com/
 Example usage: 
 
 ```
-http://localhost:8080/geokey/?lat=41.8781&lng=87.6298
+curl http://localhost:8080/geokey/?lat=41.8781&lng=87.6298
+
+>>> E6460:98EE0
 ```
