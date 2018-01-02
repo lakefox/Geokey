@@ -8,7 +8,5 @@
   },
   "author": "lakefox",
   "license": "ISC",
-  "dependencies": {
-    "base32": "0.0.6"
-  }
+  "dependencies": {}
 }

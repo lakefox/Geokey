@@ -1,6 +1,5 @@
 const app = require("express")();
 const http = require("http").Server(app);
-const base32 = require('base32');
 
 // /geokey/lat,long
 // /geokey/?lat=38.518093&lng=-93.529903
