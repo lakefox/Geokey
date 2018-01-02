@@ -50,3 +50,5 @@ app.get("/geokey/*", (req,res) => {
   }
 });
 ```
+
+The only dependency Geokey has is express
