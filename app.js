@@ -1,6 +1,12 @@
 const app = require("express")();
 const http = require("http").Server(app);
 
+// i is for insite
+app.get("/i/*", (req,res)=>{
+  // * should be in geo:key format
+	res.send("");
+});
+
 // /geokey/lat,long
 // /geokey/?lat=38.518093&lng=-93.529903
 app.get("/geokey/*", (req,res) => {
