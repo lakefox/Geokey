@@ -7,5 +7,6 @@ Example usage:
 ```
 curl http://localhost:8080/geokey/?lat=41.8781&lng=87.6298
 
+Outputing
 >>> E6460:98EE0
 ```
