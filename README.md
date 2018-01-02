@@ -50,7 +50,3 @@ app.get("/geokey/*", (req,res) => {
   }
 });
 ```
-make sure you include these node packages
-```
-const base32 = require('base32');
-```
